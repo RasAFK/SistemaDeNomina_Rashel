@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\obj\Debug\1SistemaDeNomina.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\obj\Debug\_1SistemaDeNomina.Properties.Resources.resources
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\obj\Debug\1SistemaDeNomina.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\obj\Debug\1SistemaDeNomina.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\bin\Debug\1SistemaDeNomina.exe.config
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\bin\Debug\1SistemaDeNomina.exe
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\bin\Debug\1SistemaDeNomina.pdb
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\obj\Debug\1SistemaDeNomina.exe
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\obj\Debug\1SistemaDeNomina.pdb
+C:\Users\PC\source\repos\1SistemaDeNomina\1SistemaDeNomina\obj\Debug\_1SistemaDeNomina.Presentacion.Form2.resources

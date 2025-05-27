@@ -1,0 +1,8 @@
+🔹 REPORTE SEMANAL DE NÓMINA 🔹
+
+Fecha de generación: 26/05/2025 14:34
+----------------------------------------------------
+Nombre       | Apellido    | NSS      | Tipo de Empleado         | Pago Semanal
+----------------------------------------------------
+Juan         | Pérez      | 12345    | Asalariado                | $800.00
+María        | Gómez      | 67890    | Por Comisión              | $500.00
