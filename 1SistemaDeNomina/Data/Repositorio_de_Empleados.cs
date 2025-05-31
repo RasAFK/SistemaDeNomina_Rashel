@@ -7,10 +7,6 @@ using _1SistemaDeNomina.Core;
 
 namespace _1SistemaDeNomina.Data
 {
-    /// <summary>
-    /// ///////////////////////////////////////////
-    /// </summary>
-    /// /////////////////////////////////////////////////////////////////////////////////
     public class Repositorio_de_Empleados
     {
         #region Colección en memoria, Lista
